@@ -1,7 +1,7 @@
 import { useState } from "react"; // 01
 import "./App.css"; // 02
 
-const API = "http://localhost:8000/chat"; // 03
+const API = "https://my-chatbot3-jpj4.onrender.com/chat"; // 03
 
 export default function App() {
   // 04
